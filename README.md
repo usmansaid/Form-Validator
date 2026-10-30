@@ -8,4 +8,4 @@ A responsive, client-side form validator with a hacker terminal aesthetic. Built
 
 ### LIVE LINK
 
-[SYS.LOGIN\_// Validator](https://usaihack.github.io/Form-Validator/)
+[Check it out how Client-side validation works](https://usmansaid.github.io/Form-Validator/)
